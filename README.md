@@ -17,16 +17,16 @@ Additional features:
 ## Screenshots
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./signin.png" width=20%>
-<img src="./login.png" width=20%>
-<img src="./clerk-1.png" width=20%>
-<img src="./clerk-dashboar.png" width=20%>
-<img src="./clerk-settings.png" width=20%>
-<img src="./coin-market.png" width=20%>
-<img src="./verify.png" width=20%>
-<img src="./home.png" width=20%>
-<img src="./crypto.png" width=20%>
-<img src="./converter.png" width=20%>
+<img src="./signin.png"  >
+<img src="./login.png" >
+<img src="./clerk-1.png" width=90%>
+<img src="./clerk-dashboar.png">
+<img src="./clerk-settings.png">
+<img src="./coin-market.png">
+<img src="./verify.png" width=90%>
+<img src="./home.png" width=90%>
+<img src="./crypto.png" width=90%>
+<img src="./converter.png" width=90%>
 
 Key Features:
 🌐 Use Expo file-based routing
